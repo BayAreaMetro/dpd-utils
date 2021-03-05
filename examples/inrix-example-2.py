@@ -1,7 +1,7 @@
 """Inrix Roadway Analytics Example 2
 
 Confirms that an Inrix Roadway Analytics corridor report zip file data downloaded 
-via the API is the same as data downlaoded from the web app. 
+via the API is the same as data downloaded from the web app. 
 
 This example requires that you authenticate with your API credentials, which 
 should be stored in a JSON file containing the following:
