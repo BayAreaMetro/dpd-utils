@@ -1,0 +1,12 @@
+name: dpdutils-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - pandas
+  - requests
+  - xlrd
+  - pip
+  - pip:
+    - git+https://github.com/BayAreaMetro/dpdutils.git
