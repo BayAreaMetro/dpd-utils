@@ -1,5 +1,7 @@
 # Examples
 
+This directory contains example scripts demonstrating how the `bata`, `inrix`, and `swiftly` sub-packages of `dpdutils` can be imported into a script and used to perform data acquisition and/or processing tasks. 
+
 ## BATA
 **bata-example-0.py**
 - Demonstrates how to aggregate one or more BATA compiled traffic volume reports. The compiled traffic volume reports can be found on the S drive in the BATA/Traffic Reports/Compiled Traffic Volumes directories (requires MTC VPN access).
